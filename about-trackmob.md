@@ -7,13 +7,7 @@
   <p>
       Não importa o tamanho da empresa, nada é mais importante que o time. Independente do Business, um bom time alinhado consegue realizar/entregar qualquer coisa. <br/><br/>Nosso foco é construir/manter um time de alto rendimento e com qualidade de vida. Para isto, construímos nossas metas utilizando metodologia OKR que nos proporciona um crescimento saudável ;) <br/><br/> Além disto, utilizamos metodologias ageis para gerenciamento dos projetos, o que nos permite ter um horário de trabalho mais flexível e possibilidade de remoto. 
 <br/>
-<h6>Quem somos:</h6>
-<a href="http://br.linkedin.com/in/jonasalima" target="_blank" > CEO - Jonas de Araujo </a><br/>
-<a href="http://br.linkedin.com/pub/rodrigo-amazonas-sliwak/52/67/286/pt" target="_blank"> CMO - Rodrigo Amazonas </a><br/>
-<a href="http://br.linkedin.com/pub/bruno-vercelino-da-hora/13/b58/550/pt" target="_blank"> Desenvolvedor Android - Bruno da Hora </a><br/>
-<a href="#"> Analista de Sistema Jr - José Ricardo</a>
-      
-  </p>
+
 <h2>Tecnologia:</h2>
 <p>
     Nós amamos Ruby on Rails e Java/Android, porém não nos prendemos a linguagem/tecnologia. Temos que estar atentos ao que há de melhor e ter uma visão 360º. Buscamos continuamente por pessoas talentosas e entusiastas que compartilhem de nossos ideais e que amem o que fazem, pois queremos, sempre que viável, aplicar o que há de melhor em tecnologia e metodologias.<br/> <br/>
