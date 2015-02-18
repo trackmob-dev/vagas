@@ -1,15 +1,11 @@
 <h2>A empresa:</h2>
   <p>
-      A Trackmob é uma startup com pouco mais de um ano de vida e já tem muita história para contar. Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após receber investimentos abrimos escritório em SP, onde estamos até hoje. 
-    Nessa aventura criamos dois produtos: Trackmob OS, que é um Field Service Management focado ao mercado Brasileiro com todas suas particularidades e Trackmob Foundraising, que e uma suíte de soluções para ONGs. Como em nossa história, sempre tivemos contato muito forte com ONGs como Greenpeace e WWF, não pudemos deixar de colaborar com o mundo através de nossos conhecimentos e tecnologias. 
-      Nossos produtos sempre são focados em simplicidade e objetividade para resolver os problemas de nossos clientes de forma acertiva.
+      A Trackmob é uma startup com pouco mais de um ano de vida e já tem muita história para contar. Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após receber investimentos abrimos escritório em SP, onde estamos até hoje. <br/>Nessa aventura criamos dois produtos: Trackmob OS, que é um Field Service Management focado ao mercado Brasileiro com todas suas particularidades e Trackmob Foundraising, que e uma suíte de soluções para ONGs. Como em nossa história, sempre tivemos contato muito forte com ONGs como Greenpeace e WWF, não pudemos deixar de colaborar com o mundo através de nossos conhecimentos e tecnologias. <br/> Nossos produtos sempre são focados em simplicidade e objetividade para resolver os problemas de nossos clientes de forma acertiva.
   </p>
 
 <h2>O Time:</h2>
   <p>
-      Não importa o tamanho da empresa, nada é mais importante que o time. Independente do Business, um bom time alinhado consegue realizar/entregar qualquer coisa. Por isso nosso foco é construir/manter um time de alto rendimento, saudável       e unido. 
-      Para isto, construímos nossas metas utilizando metodologia OKR. Nosso crescimento pode não ser o mais rápido mas sem dúvidas é saudável!
-      Utilizamos metodologias ageis para gerenciamento dos projetos, o que nos permite ter um horário de trabalho mais flexível e possibilidade de remoto. 
+      Não importa o tamanho da empresa, nada é mais importante que o time. Independente do Business, um bom time alinhado consegue realizar/entregar qualquer coisa. Por isso nosso foco é construir/manter um time de alto rendimento, saudável       e unido. <br/> Para isto, construímos nossas metas utilizando metodologia OKR. Nosso crescimento pode não ser o mais rápido mas sem dúvidas é saudável! <br/> Utilizamos metodologias ageis para gerenciamento dos projetos, o que nos permite ter um horário de trabalho mais flexível e possibilidade de remoto. 
   </p>
 <h2>Tecnologia:</h2>
 <p>
