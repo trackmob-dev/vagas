@@ -51,7 +51,7 @@
 
 <ul class="task-list">
   <li>Iniciante: R$ 2.500,00 a R$ 4.000,00</li>
-  <li>Experiente: R$ 4.000 a R$6.000</li>
+  <li>Experiente: R$ 4.000,00 a R$6.000,00</li>
   <li>Ninja: Faça sua proposta</li>
 </ul>
 
