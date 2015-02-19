@@ -52,7 +52,7 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
   <li>Ninja: Faça sua proposta</li>
 </ul>
 
-<h2> Mesmo se você morar fora de SP, será muito bem vindo a se candidatar</h2>
+<h5> Mesmo se você morar fora de SP, será muito bem vindo a se candidatar</h5>
 
 <h2>
 <a id="user-content-como-se-canditadar" class="anchor" href="#como-se-canditadar" aria-hidden="true"><span class="octicon octicon-link"></span></a>Como se canditadar</h2>
