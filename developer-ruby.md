@@ -1,3 +1,4 @@
+<h2> VAGA ATUALIZADA EM: 25 de JUNHO de 2015 </h2>
 <h1>
 <a id="user-content-developer-ruby" class="anchor" href="#developer-web-ruby" aria-hidden="true"><span class="octicon octicon-link"></span></a>Desenvolvedor web Ruby</h1>
 
