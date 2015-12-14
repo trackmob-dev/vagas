@@ -22,7 +22,7 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
   <li>Experiência com testes automatizados</li>
   <li>Conhecimento de metodologias ágeis</li>
   <li>Utilizar o Git como controle de versão</li>
-  <li>Já ter usado Sidekick</li>
+  <li>Já ter usado Sidekiq</li>
   <li>Entender de Design Patterns e Solid</li>
 </ul>
 <h3>
