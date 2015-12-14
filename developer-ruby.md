@@ -8,7 +8,7 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
 
 <h2>
 <a id="user-content-experiência-necessária" class="anchor" href="#experi%C3%AAncia-necess%C3%A1ria" aria-hidden="true"><span class="octicon octicon-link"></span></a>Experiência necessária</h2>
-<p>Você precisa ter pelo menos 3 anos de experiência em desenvolvimento com Ruby on Rails, conhecimentos de banco de dados SQL (Mysql e PostgreSql), <a href="https://pusher.com/" target="_blank">Sidekick</a>, Design Patterns e desenvolvimento de webservices e APIs REST. Nossos servidores estão localizados na AWS, sendo assim, entender de Ops será importante e se você adotar a cultura DevOps, melhor ainda!</p>
+<p>Você precisa ter pelo menos 3 anos de experiência em desenvolvimento com Ruby on Rails, conhecimentos de banco de dados SQL (Mysql e PostgreSql), Sidekick, Design Patterns e desenvolvimento de webservices e APIs REST. Nossos servidores estão localizados na AWS, sendo assim, entender de Ops será importante e se você adotar a cultura DevOps, melhor ainda!</p>
 <h3>
 <a id="user-content-requisitos" class="anchor" href="#requisitos" aria-hidden="true"><span class="octicon octicon-link"></span></a>Requisitos</h3>
 
@@ -24,7 +24,6 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
   <li>Utilizar o Git como controle de versão</li>
   <li>Já ter usado Sidekick</li>
   <li>Entender de Design Patterns e Solid</li>
-  <li>Desenvolver com uso de teste</li>
 </ul>
 <h3>
 <a id="user-content-diferenciais" class="anchor" href="#diferenciais" aria-hidden="true"><span class="octicon octicon-link"></span></a>Diferenciais</h3>
