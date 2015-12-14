@@ -1,14 +1,14 @@
-<h2> VAGA ATUALIZADA EM: 07 de JULHO de 2015 </h2>
+<h2> VAGA ATUALIZADA EM: 14 de DEZEMBRO de 2015 </h2>
 <h1>
-<a id="user-content-developer-ruby" class="anchor" href="#developer-web-ruby" aria-hidden="true"><span class="octicon octicon-link"></span></a>Desenvolvedor Web Ruby on Rails</h1>
+<a id="user-content-developer-ruby" class="anchor" href="#developer-web-ruby" aria-hidden="true"><span class="octicon octicon-link"></span></a>Desenvolvedor Ruby on Rails</h1>
 
-<p>A <a href="https://github.com/Trackmob/vagas/blob/gh-pages/about-trackmob.md">Trackmob</a>  é uma startup com pouco mais de um ano de vida e já tem muitas experiências para compartilhar com você. Compartilhamos como foram nossos processos de seleção para aceleração, os detalhes que fizeram de nosso produto um sucesso, como foi o processo para receber investimento e muito mais. 
+<p>A <a href="https://github.com/Trackmob/vagas/blob/gh-pages/about-trackmob.md">Trackmob</a>  é uma startup com pouco mais de dois anos de vida e já tem muitas experiências para compartilhar com você. Compartilhamos como foram nossos processos de seleção para aceleração, os detalhes que fizeram de nosso produto um sucesso, como foi o processo para receber investimento e muito mais. 
 
-Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após receber investimentos abrimos escritório em SP, onde estamos até hoje. Pretendemos montar um núcleo de desenvolvimento em Curitiba ainda este ano, tendo a possibilidade de você morar lá, caso você queira ;)</p>
+Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após receber investimentos abrimos escritório em SP, recentemente reabrimos nosso escritório de desenvolvimento em Curitiba, mantendo a parte comercial em SP.</p>
 
 <h2>
 <a id="user-content-experiência-necessária" class="anchor" href="#experi%C3%AAncia-necess%C3%A1ria" aria-hidden="true"><span class="octicon octicon-link"></span></a>Experiência necessária</h2>
-<p>Você precisa ter pelo menos 3 anos de experiência em desenvolvimento Web com Ruby on Rails, conhecimentos de banco de dados SQL (Mysql e PostgreSql), <a href="https://pusher.com/" target="_blank">Pusher</a> e desenvolvimento de webservices e APIs REST. Nossos servidores estão localizados na AWS, sendo assim, entender de Ops será importante e se você adotar a cultura DevOps, melhor ainda!</p>
+<p>Você precisa ter pelo menos 3 anos de experiência em desenvolvimento com Ruby on Rails, conhecimentos de banco de dados SQL (Mysql e PostgreSql), <a href="https://pusher.com/" target="_blank">Sidekick</a>, Design Patterns e desenvolvimento de webservices e APIs REST. Nossos servidores estão localizados na AWS, sendo assim, entender de Ops será importante e se você adotar a cultura DevOps, melhor ainda!</p>
 <h3>
 <a id="user-content-requisitos" class="anchor" href="#requisitos" aria-hidden="true"><span class="octicon octicon-link"></span></a>Requisitos</h3>
 
@@ -22,6 +22,9 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
   <li>Experiência com testes automatizados</li>
   <li>Conhecimento de metodologias ágeis</li>
   <li>Utilizar o Git como controle de versão</li>
+  <li>Já ter usado Sidekick</li>
+  <li>Entender de Design Patterns e Solid</li>
+  <li>Desenvolver com uso de teste</li>
 </ul>
 <h3>
 <a id="user-content-diferenciais" class="anchor" href="#diferenciais" aria-hidden="true"><span class="octicon octicon-link"></span></a>Diferenciais</h3>
@@ -35,9 +38,9 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
   <li>Ter conhecimento de bancos não relacionais</li>
   <li>Ter conhecimento de TDD ou BDD</li>
   <li>Ter conhecimento de micro-serviços</li>
+  <li>Experiência com produtos real-time</li>
   <li>Experiência com metodologias ágeis</li>
   <li>Experiência com Ops (AWS, Digital Ocean, Linode, Chef, Docker, Vagrant, etc)</li>
-  <li>Ter experiência com alguma dessas tecnologias a seguir: RSpec, Capybara, PostgreSQL, MySQL, Redis, MongoDB, Memcache e SASS</li>
   <li>Perfil no GitHub e contribuições para projetos Open-Source</li>
 </ul>
 
@@ -51,19 +54,15 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
 </ul>
 
 <h2>
-<a id="user-content-salarios" class="anchor" href="#salarios" aria-hidden="true"><span class="octicon octicon-link"></span></a>Salário (PJ):</h2>
+<a id="user-content-salarios" class="anchor" href="#salarios" aria-hidden="true"><span class="octicon octicon-link"></span></a>Salário</h2>
+Nos envie uma proposta de salário para contratação PJ.
 
-<ul class="task-list">
-  <li>Experiente: R$ 4.000,00 a R$6.000,00</li>
-  <li>Ninja: Faça sua proposta</li>
-</ul>
-
-<h5>Aceitamos candidatos de todos os estados.</h5>
+<h5>Estamos a procura de candidatos em Curitiba ou São Paulo.</h5>
 
 <h2>
 <a id="user-content-como-se-canditadar" class="anchor" href="#como-se-canditadar" aria-hidden="true"><span class="octicon octicon-link"></span></a>Como se canditadar</h2>
 
-<p>Se você tem um perfil próximo com o que procuramos, envie um e-mail para <a href="mailto:contato@trackmob.com.br">contato@trackmob.com.br</a> com o assunto <strong>[VAGA] Desenvolvedor Web Ruby on Rails</strong> junto com as seguintes informações:</p>
+<p>Se você tem um perfil próximo com o que procuramos, envie um e-mail para <a href="mailto:contato@trackmob.com.br">contato@trackmob.com.br</a> com o assunto <strong>[VAGA] Desenvolvedor Ruby on Rails</strong> junto com as seguintes informações:</p>
 
 <ul class="task-list">
 <li>Fale um pouco sobre você e suas skills</li>
