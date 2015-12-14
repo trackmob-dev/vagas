@@ -24,6 +24,7 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
   <li>Utilizar o Git como controle de versão</li>
   <li>Já ter usado Sidekiq</li>
   <li>Entender de Design Patterns e Solid</li>
+  <li>Ter conhecimento de micro-serviços</li>
 </ul>
 <h3>
 <a id="user-content-diferenciais" class="anchor" href="#diferenciais" aria-hidden="true"><span class="octicon octicon-link"></span></a>Diferenciais</h3>
@@ -36,7 +37,6 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
   <li>Ter utilizado SASS ou LESS</li>
   <li>Ter conhecimento de bancos não relacionais</li>
   <li>Ter conhecimento de TDD ou BDD</li>
-  <li>Ter conhecimento de micro-serviços</li>
   <li>Experiência com produtos real-time</li>
   <li>Experiência com metodologias ágeis</li>
   <li>Experiência com Ops (AWS, Digital Ocean, Linode, Chef, Docker, Vagrant, etc)</li>
