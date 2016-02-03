@@ -15,17 +15,16 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
 <ul class="task-list">
   <li>Ser proativo, organizado e autodidata</li>
   <li>Trabalhar bem em equipe</li>
+  <li>Conhecimento e experiência com metodologias ágeis</li>
   <li>Excelente comunicação é indispensável para trabalhar bem com um time ágil</li>
   <li>Ter capacidade de buscar soluções para problemas</li>
   <li>Ter pavor de gambiarras em código</li>
   <li>Conhecer bancos relacionais</li>
   <li>Experiência com testes automatizados</li>
-  <li>Conhecimento de metodologias ágeis</li>
   <li>Utilizar o Git como controle de versão</li>
   <li>Já ter usado Sidekiq</li>
   <li>Entender de Design Patterns e Solid</li>
   <li>Ter conhecimento de micro-serviços</li>
-  <li>Experiência com metodologias ágeis</li>
 </ul>
 <h3>
 <a id="user-content-diferenciais" class="anchor" href="#diferenciais" aria-hidden="true"><span class="octicon octicon-link"></span></a>Diferenciais</h3>
