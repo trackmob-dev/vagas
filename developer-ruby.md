@@ -1,4 +1,4 @@
-<h2> VAGA ATUALIZADA EM: 14 de DEZEMBRO de 2015 </h2>
+<h2> VAGA ATUALIZADA EM: 03 de FEVEREIRO de 2016 </h2>
 <h1>
 <a id="user-content-developer-ruby" class="anchor" href="#developer-web-ruby" aria-hidden="true"><span class="octicon octicon-link"></span></a>Desenvolvedor Ruby on Rails</h1>
 
@@ -25,6 +25,7 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
   <li>Já ter usado Sidekiq</li>
   <li>Entender de Design Patterns e Solid</li>
   <li>Ter conhecimento de micro-serviços</li>
+  <li>Experiência com metodologias ágeis</li>
 </ul>
 <h3>
 <a id="user-content-diferenciais" class="anchor" href="#diferenciais" aria-hidden="true"><span class="octicon octicon-link"></span></a>Diferenciais</h3>
@@ -38,7 +39,6 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
   <li>Ter conhecimento de bancos não relacionais</li>
   <li>Ter conhecimento de TDD ou BDD</li>
   <li>Experiência com produtos real-time</li>
-  <li>Experiência com metodologias ágeis</li>
   <li>Experiência com Ops (AWS, Digital Ocean, Linode, Chef, Docker, Vagrant, etc)</li>
   <li>Perfil no GitHub e contribuições para projetos Open-Source</li>
 </ul>
