@@ -19,11 +19,13 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
 
 <ul class="task-list">
   <li>Ser proativo, organizado e autodidata</li>
+  <li>Ser atencioso e cuidadoso com o trabalho</li>
   <li>Trabalhar bem em equipe</li>
   <li>Conhecimento e experiência com metodologias ágeis</li>
   <li>Excelente comunicação é indispensável para trabalhar bem com um time ágil</li>
   <li>Ter capacidade de buscar soluções para problemas</li>
   <li>Conhecimento de bancos de dados relacionais</li>
+  <li>Conhecer a metodologia e termos de testes de software</li>
 </ul>
 <h3>
 <a id="user-content-diferenciais" class="anchor" href="#diferenciais" aria-hidden="true"><span class="octicon octicon-link"></span></a>Diferenciais</h3>
@@ -31,9 +33,10 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
 <ul class="task-list">
   <li>Ter trabalhado ou sonhar em trabalhar em uma Startup</li>
   <li>Ter espírito empreendedor</li>
-  <li>Conhecer ou programar com alguma linguagem (Ruby on Rails, PERL, PHP, Node.JS, Java)</li>
+  <li>Ser perfeccionista</li>
+  <li>Conhecer ou programar em alguma linguagem (Ruby on Rails, PERL, PHP, Node.JS, Java)</li>
   <li>Experiência com testes automatizados (Selenium, etc)</li>
-  <li>Experiência com Ops (AWS, Digital Ocean, Linode, Chef, Docker, Vagrant, etc)</li>
+  <li>Experiência com Ops (AWS, Digital Ocean, Heroku, Linode, etc)</li>
 </ul>
 
 <h2>
