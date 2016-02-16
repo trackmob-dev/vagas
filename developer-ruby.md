@@ -4,7 +4,7 @@
 # Desenvolvedor Ruby on Rails
 ---
 
-A [Trackmob](https://github.com/Trackmob/vagas/blob/gh-pages/about-trackmob.md "Mais sobre a Trackmob") é uma startup com pouco mais de dois anos de vida e já tem muitas experiências para compartilhar com você. Compartilhamos como foram nossos processos de seleção para aceleração, os detalhes que fizeram de nosso produto um sucesso, como foi o processo para receber investimento e muito mais. Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após receber investimentos abrimos escritório em SP, recentemente reabrimos nosso escritório de desenvolvimento em Curitiba, mantendo a parte comercial em SP.
+A [Trackmob](https://github.com/Trackmob/vagas/blob/gh-pages/about-trackmob.md "Mais sobre a Trackmob") é uma startup com pouco mais de dois anos de vida e já tem muitas experiências para compartilhar com você. Compartilhamos como foram nossos processos de seleção para aceleração, os detalhes que fizeram de nosso produto um sucesso, como foi o processo para receber investimento e muito mais. Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após receber investimentos abrimos escritório em SP. Recentemente reabrimos nosso escritório de desenvolvimento em Curitiba, mantendo a parte comercial em SP.
 
 ## Experiência necessária
 ---
@@ -23,7 +23,7 @@ Você precisa ter pelo menos 3 anos de experiência em desenvolvimento com Ruby 
 * Experiência com testes automatizados
 * Utilizar o Git como controle de versão
 * Já ter usado Sidekiq
-* Entender de Design Patterns e Solid
+* Entender de Design Patterns e SOLID
 * Ter conhecimento de micro-serviços
 
 ### Diferenciais
@@ -56,7 +56,7 @@ Nos envie uma proposta de salário para contratação PJ.
 ## Como se canditadar
 ---
 
-Se você tem um perfil próximo com o que procuramos, envie um e-mail para contato@trackmob.com.br com o assunto **[VAGA] Desenvolvedor Ruby on Rails** junto com as seguintes informações:
+Se você tem um perfil que se encaixa com o que procuramos, envie um e-mail para contato@trackmob.com.br com o assunto **[VAGA] Desenvolvedor Ruby on Rails** junto com as seguintes informações:
 - Fale um pouco sobre você e suas skills
 - Currículo ou LinkedIn
 - Pretensão Salarial
