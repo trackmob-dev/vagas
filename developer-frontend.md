@@ -9,14 +9,13 @@ A [Trackmob](https://github.com/Trackmob/vagas/blob/gh-pages/about-trackmob.md "
 ## Experiência necessária
 ---
 
-Você precisa ter pelo menos 3 anos de experiência em desenvolvimento com front-end, ter utilizado Bootstrap, conhecimentos de banco de dados SQL (Mysql e PostgreSql), Design Patterns e APIs REST. Nossos servidores estão localizados na AWS, sendo assim, entender de Ops será importante e se você adotar a cultura DevOps, melhor ainda!
+Você precisa ter pelo menos 3 anos de experiência em desenvolvimento front-end, ter utilizado Bootstrap, algum framework JavaScript, Design Patterns e APIs REST. Nossos servidores estão localizados na AWS, sendo assim, entender de Ops será importante e se você adotar a cultura DevOps, melhor ainda!
 
 ### Requisitos
 
 * Conhecimento de HTML5 (HTML/CSS/JS)
 * Ter utilizado Bootstrap
 * Conhecimento de algum framework JS como Angular, React, etc.
-* Conhecimento no mínimo básico de Ruby on Rails
 * Ser proativo, organizado e autodidata
 * Trabalhar bem em equipe
 * Conhecimento e experiência com metodologias ágeis
@@ -31,6 +30,7 @@ Você precisa ter pelo menos 3 anos de experiência em desenvolvimento com front
 
 ### Diferenciais
 
+- Conhecimento de Ruby on Rails
 - Ter trabalhado ou sonhar em trabalhar em uma Startup
 - Ter espírito empreendedor
 - Conhecer ou programar com outras linguagens (Python, PHP, Java)
