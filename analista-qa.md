@@ -1,4 +1,4 @@
-<h2> VAGA ATUALIZADA EM: 03 de FEVEREIRO de 2016 </h2>
+<h2> VAGA ATUALIZADA EM: 06 de MAIO de 2016 </h2>
 <h1>
 <a id="user-content-developer-ruby" class="anchor" href="#analista-qa" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analista de Qualidade e Suporte</h1>
 
@@ -13,7 +13,7 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
 
 <h2>
 <a id="user-content-experiência-necessária" class="anchor" href="#experi%C3%AAncia-necess%C3%A1ria" aria-hidden="true"><span class="octicon octicon-link"></span></a>Experiência necessária</h2>
-<p>Você precisa ser formado em algum cruso relacionado à TI ou ter experiência dentro do mercado de TI, deve conhecer metodologia ágeis e já ter trabalhado com testes. É importante que você tenha conhecimento de bancos de dados relacionais e saiba usar SQL. Diferencias são saber automatizar testes e trabalhar com infra-estrutura, principalmente linux. </p>
+<p>Você precisa ser formado ou estar cursando algum curso relacionado à TI ou ter experiência dentro do mercado de TI, deve conhecer metodologia ágeis e já ter trabalhado com testes. É importante que você tenha conhecimento de bancos de dados relacionais e saiba usar SQL. Diferencias são saber automatizar testes e trabalhar com infra-estrutura, principalmente linux. </p>
 <h3>
 <a id="user-content-requisitos" class="anchor" href="#requisitos" aria-hidden="true"><span class="octicon octicon-link"></span></a>Requisitos</h3>
 
