@@ -1,4 +1,4 @@
-##  VAGA ATUALIZADA EM: 19 de ABRIL de 2016
+##  VAGA ATUALIZADA EM: 06 de MAIO de 2016
 ---
 
 # Desenvolvedor Front-end
