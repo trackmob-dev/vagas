@@ -1,4 +1,4 @@
-##  VAGA ATUALIZADA EM: 16 de FEVEREIRO de 2016
+##  VAGA ATUALIZADA EM: 06 de MAIO de 2016
 ---
 
 # Desenvolvedor Ruby on Rails
