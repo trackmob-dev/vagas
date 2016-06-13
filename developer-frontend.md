@@ -16,6 +16,9 @@ Você precisa ter pelo menos 3 anos de experiência em desenvolvimento front-end
 * Conhecimento de HTML5 (HTML/CSS/JS)
 * Ter utilizado Bootstrap
 * Conhecimento de algum framework JS como Angular, React, etc.
+* Conhecimento de Sass e Less
+* Ferramentas de otimização como Grunt e Bower
+* Conhecimento de design responsivo
 * Ser proativo, organizado e autodidata
 * Trabalhar bem em equipe
 * Conhecimento e experiência com metodologias ágeis
@@ -57,7 +60,7 @@ Nos envie uma proposta de salário para contratação PJ.
 ## Como se canditadar
 ---
 
-Se você tem um perfil que se encaixa com o que procuramos, envie um e-mail para contato@trackmob.com.br com o assunto **[VAGA] Desenvolvedor Ruby on Rails** junto com as seguintes informações:
+Se você tem um perfil que se encaixa com o que procuramos, envie um e-mail para contato@trackmob.com.br com o assunto **[VAGA] Desenvolvedor Front-end** junto com as seguintes informações:
 - Fale um pouco sobre você e suas skills
 - Currículo ou LinkedIn
 - Pretensão Salarial
