@@ -9,7 +9,7 @@ A [Trackmob](https://github.com/Trackmob/vagas/blob/gh-pages/about-trackmob.md "
 ## Experiência necessária
 ---
 
-Você precisa ter pelo menos 3 anos de experiência em desenvolvimento front-end, ter utilizado Bootstrap, algum framework JavaScript, Design Patterns e APIs REST. Nossos servidores estão localizados na AWS, sendo assim, entender de Ops será importante e se você adotar a cultura DevOps, melhor ainda!
+Você precisa ter pelo menos 3 anos de experiência em desenvolvimento front-end, ter utilizado Bootstrap, algum framework JavaScript, Design Patterns e APIs REST. Nossos servidores estão localizados na nuvem, sendo assim, entender um pouco de Ops será importante e se você adotar a cultura DevOps, melhor ainda!
 
 ### Requisitos
 
@@ -41,7 +41,7 @@ Você precisa ter pelo menos 3 anos de experiência em desenvolvimento front-end
 - Ter conhecimento de bancos não relacionais
 - Ter conhecimento de TDD ou BDD
 - Experiência com produtos real-time
-- Experiência com Ops (AWS, Digital Ocean, Linode, Chef, Docker, Vagrant, etc)
+- Experiência com Ops (IBM SoftLayer, Bluemix, AWS, Digital Ocean, Linode, Chef, Docker, Vagrant, etc)
 - Perfil no GitHub e contribuições para projetos Open-Source
  
 ## Benefícios
