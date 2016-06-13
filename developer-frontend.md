@@ -1,4 +1,4 @@
-##  VAGA ATUALIZADA EM: 06 de MAIO de 2016
+##  VAGA ATUALIZADA EM: 13 de JUNHO de 2016
 ---
 
 # Desenvolvedor Front-end
@@ -23,7 +23,6 @@ Você precisa ter pelo menos 3 anos de experiência em desenvolvimento front-end
 * Ter capacidade de buscar soluções para problemas
 * Ter pavor de gambiarras em código
 * Conhecer bancos relacionais
-* Experiência com testes automatizados
 * Utilizar o Git como controle de versão
 * Conhecer Design Patterns e SOLID
 * Ter conhecimento de micro-serviços
@@ -31,6 +30,7 @@ Você precisa ter pelo menos 3 anos de experiência em desenvolvimento front-end
 ### Diferenciais
 
 - Conhecimento de Ruby on Rails
+- Experiência com testes automatizados
 - Ter trabalhado ou sonhar em trabalhar em uma Startup
 - Ter espírito empreendedor
 - Conhecer ou programar com outras linguagens (Python, PHP, Java)
@@ -52,7 +52,7 @@ Você precisa ter pelo menos 3 anos de experiência em desenvolvimento front-end
 
 Nos envie uma proposta de salário para contratação PJ.
 
-*Estamos a procura de candidatos em Curitiba ou São Paulo, mas abertos a trabalhar com pessoas remotas e home-office.*
+*Estamos a procura de candidatos em Curitiba.*
 
 ## Como se canditadar
 ---
