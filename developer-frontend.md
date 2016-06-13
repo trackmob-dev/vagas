@@ -34,6 +34,7 @@ Você precisa ter pelo menos 3 anos de experiência em desenvolvimento front-end
 
 - Conhecimento de Ruby on Rails
 - Experiência com testes automatizados
+- Utilizar Photoshop, Illustrator ou Fireworks
 - Ter trabalhado ou sonhar em trabalhar em uma Startup
 - Ter espírito empreendedor
 - Conhecer ou programar com outras linguagens (Python, PHP, Java)
