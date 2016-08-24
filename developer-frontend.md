@@ -9,7 +9,7 @@ A [Trackmob](https://github.com/Trackmob/vagas/blob/gh-pages/about-trackmob.md "
 ## Experiência necessária
 ---
 
-Você precisa ter pelo menos 3 anos de experiência em desenvolvimento front-end, ter utilizado Bootstrap, algum framework JavaScript, Design Patterns e APIs REST. Nossos servidores estão localizados na nuvem, sendo assim, entender um pouco de Ops será importante e se você adotar a cultura DevOps, melhor ainda!
+Você precisa ter pelo menos 3 anos de experiência em desenvolvimento front-end, ter utilizado Bootstrap, algum framework JavaScript, Design Patterns e APIs REST. Nossos servidores estão localizados na Softlayer, a plataforma de IaaS da IBM, sendo assim, entender um pouco de Ops será importante e se você adotar a cultura DevOps, melhor ainda!
 
 ### Requisitos
 
