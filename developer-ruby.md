@@ -9,7 +9,7 @@ A [Trackmob](https://github.com/Trackmob/vagas/blob/gh-pages/about-trackmob.md "
 ## Experiência necessária
 ---
 
-Você precisa ter pelo menos 3 anos de experiência em desenvolvimento com Ruby on Rails, conhecimentos de banco de dados SQL (Mysql e PostgreSql), Sidekiq, Design Patterns e desenvolvimento de webservices e APIs REST. Nossos servidores estão localizados na AWS, sendo assim, entender de Ops será importante e se você adotar a cultura DevOps, melhor ainda!
+Você precisa ter pelo menos 3 anos de experiência em desenvolvimento com Ruby on Rails, conhecimentos de banco de dados SQL (Mysql e PostgreSql), Sidekiq, Design Patterns e desenvolvimento de webservices e APIs REST. Nossos servidores estão localizados na Softlayer, o servio de IaaS da IBM, sendo assim, entender de Ops será importante e se você adotar a cultura DevOps, melhor ainda!
 
 ### Requisitos
 
