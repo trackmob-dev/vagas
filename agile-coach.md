@@ -9,13 +9,15 @@ A [Trackmob](https://github.com/Trackmob/vagas/blob/gh-pages/about-trackmob.md "
 ## Responsabilidades
 ---
 
-Você será responsável por acompanhar toda a equipe da Trackmob e garantir que os objetivos dentro da empresa estejam alinhados, assim como os processos e práticas estejam otimizados para a melhor agilidade e performance. Principalmente no que se refere à equipe técnica e suas atividades diárias.
+Você será responsável por acompanhar toda a equipe da Trackmob e trabalhar para que os objetivos dentro da empresa estejam sempre alinhados, assim como os processos e práticas estejam otimizados para a melhor agilidade e performance. Principalmente no que se refere à equipe técnica e suas atividades diárias.
+
 ## Experiência necessária
 ---
 
-Você precisa ter pelo menos 3 anos de experiência com metodologias ágeis e gesto de pessoas.
+Você precisa ter pelo menos 3 anos de experiência com metodologias ágeis e gestão de pessoas.
 Precisa conhecer bem as diferentes metodologias ágeis, suas vantagens e desvantagens.
-
+Ser um bom líder e capaz de influenciar as pessoas para que alcencem sua melhor performance.
+Ter participado de diferentes mudanças culturais e diferentes times para ajudar na melhoria da performance dos envolvidos.
 
 ### Requisitos
 
@@ -24,14 +26,17 @@ Precisa conhecer bem as diferentes metodologias ágeis, suas vantagens e desvant
 * Conhecimento e experiência com metodologias ágeis
 * Excelente comunicação é indispensável para trabalhar bem com uma equipe ágil
 * Ter capacidade de buscar soluções para problemas
-
+* Postura colaborativa e que influencia as pessoas ao redor
+* COnhecimento de práticas e ferramentas de coaching
+* Conhecimento básico dos princípios mais importantes de desenvolvimento, como Arquitetura e Testes
 
 ### Diferenciais
 
 - Ter trabalhado ou sonhar em trabalhar em uma Startup
 - Ter espírito empreendedor
 - Certificados relacionados à metodologia ágil
-- Conhecer e práticar Gesto 3.0
+- Conhecer e práticar Gestão 3.0
+- Saber desenvolver em alguma linguagem
  
 ## Benefícios
 ---
