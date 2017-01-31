@@ -1,4 +1,4 @@
-##  VAGA ATUALIZADA EM: 06 de MAIO de 2016
+##  VAGA ATUALIZADA EM: 31 de JANEIRO de 2017
 ---
 
 # Desenvolvedor Ruby on Rails
@@ -44,7 +44,6 @@ Você precisa ter pelo menos 3 anos de experiência em desenvolvimento com Ruby 
 
 - Horário de trabalho flexível
 - Ambiente Startup
-- Participação nos lucros *(O formato é explicado durante o processo seletivo, nos envie um e-mail)*
  
 ## Salário
 ---
