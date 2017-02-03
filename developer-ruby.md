@@ -50,7 +50,7 @@ Você precisa ter pelo menos 3 anos de experiência em desenvolvimento com Ruby 
 
 Nos envie uma proposta de salário para contratação PJ.
 
-*Estamos a procura de candidatos em Curitiba ou São Paulo, mas abertos a trabalhar com pessoas remotas e home-office.*
+*Estamos a procura de candidatos em Curitiba, mas abertos a trabalhar com pessoas remotas e home-office.*
 
 ## Como se canditadar
 ---
