@@ -4,12 +4,21 @@
 # Desenvolvedor Ruby on Rails
 ---
 
-A [Trackmob](https://github.com/Trackmob/vagas/blob/gh-pages/about-trackmob.md "Mais sobre a Trackmob") é uma startup com pouco mais de dois anos de vida e já tem muitas experiências para compartilhar com você. Compartilhamos como foram nossos processos de seleção para aceleração, os detalhes que fizeram de nosso produto um sucesso, como foi o processo para receber investimento e muito mais. Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após receber investimentos abrimos escritório em SP. Recentemente reabrimos nosso escritório de desenvolvimento em Curitiba, mantendo a parte comercial em SP.
+## Porque a Trackmob
+---
+
+Vivemos em um país repleto de problemas sociais e desigualdades, muitos deles esquecidos ou ignorados pela grande maioria. Mas não por todos. Felizmente, existem as organizações sem fins lucrativos, as quais são a última esperança para muitos. Ao todo, são mais de 300 mil organizações no Brasil, as quais só existem graças aos 52% dos Brasileiros que fizeram alguma doação em dinheiro em 2015, somando R$13 bilhões recursos.
+
+Gerenciar esse fluxo de doação e promover a transparência no setor é um grande desafio, e para isso existe a Trackmob. Nossa missão é unir ONGs e Doadores por meio de soluções de tecnologia que propiciam experiências incríveis de doação, fortalecendo a cultura de doação e ampliando os impactos das organizações no mundo. Ao todo, foram mais de 500 mil doações geradas nos últimos 12 meses por meio de nossas plataformas.
+
+A suíte de plataformas da Trackmob é o reflexo deste trabalho. Nosso portfólio conta com soluções de Face-to-Face (Diálogo Direto), Plataforma de Captação Online (Criação de Páginas de Doação), Guará CRM (Relacionamento, Processamento do Pagamento e Automação de Comunicação) e Portal do doador (Relacionamento). Confiam em nós organizações como Médicos sem Fronteiras, WWF, Greenpeace, Plan International, Dorina Nowill, Aldeias Infantis, entre outras tantas.
+
+Temos orgulho do nosso trabalho e da missão que temos de melhorar o mundo e **queremos ter você conosco nessa missão**!
 
 ## Experiência necessária
 ---
 
-Você precisa ter pelo menos 3 anos de experiência em desenvolvimento com Ruby on Rails, conhecimentos de banco de dados SQL (Mysql e PostgreSql), Sidekiq, Design Patterns e desenvolvimento de webservices e APIs REST. Nossos servidores estão localizados na Softlayer, o servio de IaaS da IBM, sendo assim, entender de Ops será importante e se você adotar a cultura DevOps, melhor ainda!
+Você precisa ter pelo menos 3 anos de experiência em desenvolvimento com Ruby e Rails, conhecimentos de banco de dados SQL (Mysql e PostgreSql), Sidekiq, Design Patterns e desenvolvimento de webservices e APIs REST. Nossos servidores estão localizados na Softlayer, a plataforma IaaS da IBM, sendo assim, entender de Ops será importante e se você adotar a cultura DevOps, melhor ainda!
 
 ### Requisitos
 
@@ -39,24 +48,23 @@ Você precisa ter pelo menos 3 anos de experiência em desenvolvimento com Ruby 
 - Experiência com Ops (AWS, Digital Ocean, Linode, Chef, Docker, Vagrant, etc)
 - Perfil no GitHub e contribuições para projetos Open-Source
  
-## Benefícios
+## Equipe
 ---
 
-- Horário de trabalho flexível
-- Ambiente Startup
+Somos ao todo 15 profissionais apaixonados pelo que fazem e ansioso por conhecer você e seu trabalho.
+
+Visite nosso LinkedIn e veja quem são os Trackmobers.
+
+Contamos também com um grupo de mentores, investidores e conselheiros (fomos acelerados da Papaya Ventures e recebemos uma rodada de investimento). 
  
-## Salário
+## Salário e Benefícios
 ---
 
-Nos envie uma proposta de salário para contratação PJ.
+O salário irá variar de acordo com o grau de experiência do profissional. Nos mande sua pretensão salarial. 
 
-*Estamos a procura de candidatos em Curitiba, mas abertos a trabalhar com pessoas remotas e home-office.*
+*Estamos a procura de candidatos em Curitiba.*
 
 ## Como se canditadar
 ---
 
-Se você tem um perfil que se encaixa com o que procuramos, envie um e-mail para contato@trackmob.com.br com o assunto **[VAGA] Desenvolvedor Ruby on Rails** junto com as seguintes informações:
-- Fale um pouco sobre você e suas skills
-- Currículo ou LinkedIn
-- Pretensão Salarial
-- Endereço do GitHub
+Se você tem um perfil que se encaixa com o que procuramos, preencha nosso formulário clicando [aqui](https://bit.ly/tm-developer-ruby)
