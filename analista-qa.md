@@ -1,4 +1,4 @@
-<h2> VAGA ATUALIZADA EM: 06 de MAIO de 2016 </h2>
+<h2> VAGA ATUALIZADA EM: 01 de AGOSTO de 2017 </h2>
 <h1>
 <a id="user-content-developer-ruby" class="anchor" href="#analista-qa" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analista de Qualidade e Suporte</h1>
 
@@ -45,7 +45,7 @@ Somos naturais de Curitiba, passamos 8 meses sendo acelerados no RJ e após rece
 <ul class="task-list">
   <li>Horário de trabalho flexível</li>
   <li>Ambiente Startup</li>
-  <li>Participação nos lucros <i>(O formato é explicado durante o processo seletivo, nos envie um e-mail)</i></li>
+  <li>Grande oportunidade de aprendizado e crescimento</li>
 </ul>
 
 <h2>
